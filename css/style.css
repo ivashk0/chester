@@ -1,0 +1,40 @@
+body {
+    font-family: 'Nunito', sans-serif;
+    background: #f7f8f9;
+}
+.p-0 {
+    padding: 0;
+}
+.collapse.navbar-nav {
+    display: flex;
+    justify-content: space-between;
+}
+.carousel-control-next-icon, .carousel-control-prev-icon {
+    height: 30px;
+    width: 30px;
+}
+
+div.row {
+    padding: 10px;
+}
+
+div .h4{
+    margin-top: 10px;
+}
+
+footer {
+    height: 61px;
+    padding: 8px 16px;
+}
+
+div.social {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+div .social-link {
+    text-decoration: none;
+    color: #212529;
+}
+
