@@ -24,17 +24,28 @@ div .h4{
 
 footer {
     height: 61px;
-    padding: 8px 16px;
+    padding: 8px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
 }
 
 div.social {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+    
 }
 
 div .social-link {
     text-decoration: none;
     color: #212529;
+    line-height: 0;
+}
+
+
+div .social-link img {
+    width: 15px;
+    height: 15px;
+}
+div .social-link .social-name {
+    font-size: 12px;
 }
 
