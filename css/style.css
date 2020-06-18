@@ -30,8 +30,9 @@ footer {
     align-items: center;
 }
 
-div.social {
-    
+div .card {
+    margin-bottom: 10px;
+    box-shadow: 3px 3px 5px 0px rgba(148,140,148,0.84);
 }
 
 div .social-link {
